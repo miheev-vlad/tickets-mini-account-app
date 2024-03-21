@@ -1,0 +1,19 @@
+.breadcrumbs {
+  display: flex;
+  padding: 10px;
+}
+
+.breadcrumbs a {
+  margin-right: 5px;
+  color: #007bff;
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbs a.active {
+  font-weight: bold;
+  color: #333;
+}

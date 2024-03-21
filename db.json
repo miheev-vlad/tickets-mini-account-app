@@ -1,0 +1,63 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Title 1 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas? ",
+      "dateCreation": "2024-03-02T18:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas? ",
+      "dateCreation": "2024-03-03T18:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas? ",
+      "dateCreation": "2024-03-16T18:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas? ",
+      "dateCreation": "2024-03-17T18:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas? ",
+      "dateCreation": "2024-03-20T18:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas? ",
+      "dateCreation": "2024-03-16T18:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas? ",
+      "dateCreation": "2024-03-19T18:00:00.000Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "name": "Adminuser",
+      "surname": "Admonovich",
+      "birthDay": "2000-01-29T18:00:00.000Z",
+      "city": "Moscow",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas? ",
+      "dateCreation": "2024-03-02T18:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "username": "test",
+      "password": "test",
+      "name": "Testuser",
+      "surname": "Testovich",
+      "birthDay": "2005-06-27T17:00:00.000Z",
+      "city": "Saint Petersburg",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas? ",
+      "dateCreation": "2024-03-03T18:00:00.000Z"
+    }
+  ]
+}

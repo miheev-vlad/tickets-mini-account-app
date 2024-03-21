@@ -1,0 +1,9 @@
+<nav class="breadcrumbs">
+  <a
+    *ngFor="let crumb of breadcrumbs; let last = last"
+    [routerLink]="crumb.url"
+    [class.active]="last"
+  >
+    {{ crumb.label }}
+  </a>
+</nav>

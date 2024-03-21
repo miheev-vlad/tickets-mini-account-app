@@ -1,0 +1,13 @@
+<div *ngIf="isMenuVisible">
+  <mat-toolbar color="primary" class="mat-elevation-z8">
+    <span>Mini Account App</span>
+    <span class="example-spacer"></span>
+    <button mat-button routerLink="">
+      <mat-icon>help_outline</mat-icon>Tickets
+    </button>
+    <button mat-button [routerLink]="['/profile', userId]">
+      <mat-icon>account_circle</mat-icon>Profile
+    </button>
+    <button mat-button routerLink="/login">Logout</button>
+  </mat-toolbar>
+</div>
